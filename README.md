@@ -7,7 +7,7 @@
 - 🎓 B.Tech @ RGIPT (Mathematics & Computing)
 - 💡 Interested in **Machine Learning, Deep Learning & Backend Development**
 - 🧠 Solved **300+ DSA problems**
-- 📈 LeetCode Rating: ~1625
+- 📈 LeetCode Rating: ~1676
 - 🔥 Currently learning: **Advanced ML & Deep Learning**
 - 🎯 Goal: **ML / SDE Internship**
 
@@ -27,8 +27,7 @@
 - Built ML model using **Ridge Regression**
 - Deployed using **Flask**
 - Used **StandardScaler + feature engineering**
-- 🔗 [GitHub Repo](YOUR_LINK)
-- 🔗 [Live Demo](YOUR_LINK)
+- 🔗 [GitHub Repo]((https://github.com/Dhairya-45/Algerian-Forest-Fire-Prediction))
 
 ---
 
@@ -44,14 +43,14 @@
 - Feature Engineering using **RFM analysis**
 - Models: Logistic Regression, Random Forest
 - Data cleaning + outlier handling
-- 🔗 [GitHub Repo](YOUR_LINK)
+- 🔗 [GitHub Repo]((https://github.com/Dhairya-45/customer-churn-prediction))
 
 ---
 
 ## 🏆 Achievements
 - 💪 Solved 300+ DSA problems
-- 📈 LeetCode Rating: 1625
-- ⚡ Codeforces: ~1000
+- 📈 LeetCode Rating: 1676
+- ⚡ Codeforces: ~1050
 - 🧠 Strong problem-solving skills
 
 ---
@@ -68,9 +67,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: YOUR_LINK
-- 🧑‍💻 LeetCode: YOUR_LINK
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/dhairya-agarwal-3a3865312/
+- 🧑‍💻 LeetCode: https://leetcode.com/u/Dhairya99/
+- 📧 Email: 875dharyaag@gmail.com
 
 ---
 
